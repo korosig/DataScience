@@ -7,7 +7,7 @@
 
 ---
 
-## Leírás (publikus)
+## Leírás
 
 Az **adattudomány (Data Science)** napjaink egyik leggyorsabban fejlődő területe.  
 Az online világban hagyott digitális lábnyomunk, a közösségi média, az e-kereskedelem, a gazdasági és egészségügyi adatok mind hatalmas mennyiségben keletkeznek. Ezekből az adatokból értéket kinyerni nemcsak technológiai kihívás, hanem társadalmi és gazdasági szempontból is kulcsfontosságú.
@@ -49,5 +49,7 @@ Nem a mély matematikai alapokra helyezzük a hangsúlyt, hanem arra, hogy a hal
 ## Tantárgy oldala
 
 👉 [Adattudomány tantárgy – Egyetemi oldal](https://www.inf.u-szeged.hu/~korosig/teach/datascience_2026.html)
+
+**SZTE TTIK II – Mesterséges Intelligencia Tanszék 2025/26**
 
 ---
