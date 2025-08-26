@@ -1,21 +1,24 @@
-# Adattudomány – 1. óra (Pandas + Titanic)
+# Adattudomány – 2. óra (Vizualizáció + Diabetes)
 
-Ez a repó az **Adattudomány** kurzus első órájának két Jupyter notebookját tartalmazza:
-- **Python/Pandas alapok** (gyors áttekintés, beolvasás, alapszűrés, statisztika)
-- **Titanic feladatsor** (adatbetöltés OpenML-ről, hiányzó adatok, csoportosítás, korreláció, vizualizáció)
+Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
+- **Adatvizualizáció** (gyors áttekintés, beolvasás, matplitlib és seaborn vizualizációk)
+- **Diabetes feladatsor** (adatbetöltés OpenML-ről, hiányzó adatok, csoportosítás, korreláció, vizualizáció)
 
 > **Megjegyzés:** A notebookok Binderrel azonnal futtathatók böngészőből – helyi telepítés nélkül.
 
 ---
 
-## 👟 Gyors indítás Binderrel
+## 👟 Gyors indítás Binderrel vagy GithubCodeSpaces
 
 
-### 1) Python Intro notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora/1%20ora%20-%20Python%20Intro.ipynb)
+### 1) Adatvizulaizáció notebook
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=2%20ora%20-%20Adatvizualizacio/2%20ora%20-%20Adatvizualizacio.ipynb)
 
-### 2) Feladatok (Titanic) notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora/1%20ora%20-%20Feladatok.ipynb)
+### 2) Feladatok (Diabetes) notebook
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=2%20ora%20-%20Adatvizualizacio/2%20ora%20-%20Feladatok.ipynb)
+
+### 3) GithubCodeSpaces
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/korosig/DataScience)
 
 ## 💾 Fontos: mentés és perzisztencia Binderben
 
