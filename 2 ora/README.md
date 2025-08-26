@@ -17,6 +17,9 @@ Ez a repó az **Adattudomány** kurzus második órájának két Jupyter noteboo
 ### 2) Feladatok (Diabetes) notebook
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=2%20ora/2%20ora%20-%20Feladatok.ipynb)
 
+### 3) GithubCodeSpaces
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/korosig/DataScience)
+
 ## 💾 Fontos: mentés és perzisztencia Binderben
 
 - A Binder **ideiglenes környezet** – a változtatásaid **nem íródnak vissza** a GitHub repóba.
