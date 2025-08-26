@@ -1,4 +1,4 @@
-# Adattudomány – 1. óra (Pandas + Titanic)
+# Adattudomány – 2. óra (Vizualizáció + Diabetes)
 
 Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
 - **Adatvizualizáció** (gyors áttekintés, beolvasás, matplitlib és seaborn vizualizációk)
