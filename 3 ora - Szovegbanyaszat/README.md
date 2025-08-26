@@ -10,10 +10,10 @@ Ez a repó az **Adattudomány** kurzus második órájának két Jupyter noteboo
 ## 👟 Gyors indítás Binderrel vagy GithubCodeSpaces
 
 
-### 1) Adatvizulaizáció notebook
+### 1) Szövegbányászat/Natural Language Processing, NLP notebook
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=3%20ora%20-%20Szovegbanyaszat/3%20ora%20-%20Szovegbanyaszat.ipynb)
 
-### 2) Feladatok (Diabetes) notebook
+### 2) Feladatok (Sentiment) notebook
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=3%20ora%20-%20Szovegbanyaszat/3%20ora%20-%20Feladatok.ipynb)
 
 ### 3) GithubCodeSpaces
