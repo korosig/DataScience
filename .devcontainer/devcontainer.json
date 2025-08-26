@@ -1,0 +1,31 @@
+{
+  // Image with Python preinstalled
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+
+  // VS Code extensions to install automatically
+  "extensions": [
+    "ms-toolsai.jupyter",
+    "ms-python.python",
+    "ms-python.vscode-pylance"
+  ],
+
+  // VS Code user/workspace settings
+  "settings": {
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "jupyter.askForKernelRestart": false
+  },
+
+  // Automatically install your dependencies after the container is created
+  "postCreateCommand": "pip install -r requirements.txt",
+
+  // Optional: run on each start (e.g., re-install editable packages, sync data, etc.)
+  "postStartCommand": "",
+
+  // Forward useful ports if you run apps
+  "forwardPorts": [8888, 8050],
+
+  // Features (optional): add OS packages, git, etc.
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {}
+  }
+}
