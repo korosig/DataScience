@@ -48,7 +48,7 @@ Nem a mély matematikai alapokra helyezzük a hangsúlyt, hanem arra, hogy a hal
 
 ## Tantárgy oldala
 
-👉 [Adattudomány tantárgy – Egyetemi oldal](https://www.inf.u-szeged.hu/~korosig/teach/datascience_2026.html)
+[Adattudomány tantárgy – Egyetemi oldal](https://www.inf.u-szeged.hu/~korosig/teach/datascience_2026.html)
 
 **SZTE TTIK II – Mesterséges Intelligencia Tanszék 2025/26**
 
