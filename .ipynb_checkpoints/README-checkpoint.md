@@ -1,4 +1,4 @@
-# Adattudomány (Data Science)
+# Adattudomány (Data Science) 2025/26
 
 **Tantárgykód:** IN1137LA-2025/26/1-IN1137LA-1  
 **Tantárgy:** Adattudomány  
