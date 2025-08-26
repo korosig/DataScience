@@ -15,7 +15,7 @@ Ez a repó az **Adattudomány** kurzus első órájának két Jupyter notebookj�
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora/1%20ora%20-%20Python%20Intro.ipynb)
 
 ### 2) Feladat 1 (Titanic) notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora/1%20ora%20-%20Feladat%201.ipynb)
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora/1%20ora%20-%20Feladatok.ipynb)
 
 ## 💾 Fontos: mentés és perzisztencia Binderben
 
