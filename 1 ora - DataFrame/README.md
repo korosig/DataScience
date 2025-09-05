@@ -12,12 +12,15 @@ Ez a repó az **Adattudomány** kurzus első órájának két Jupyter notebookj�
 
 
 ### 1) Python Intro notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora%20-%20DataFrame/1%20ora%20-%20Python%20Intro.ipynb)
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora%20-%20DataFrame/1%20ora%20-%20DataFrame/1%20ora%20-%20Python%20Programoz%C3%A1s%20Alapok.ipynb)
 
-### 2) Feladatok (Titanic) notebook
+### 2) DataFrame notebook
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora%20-%20DataFrame/1%20ora%20-%20DataFrame/1%20ora%20-%20DataFrame.ipynb)
+
+### 3) Feladatok (Titanic) notebook
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=1%20ora%20-%20DataFrame/1%20ora%20-%20Feladatok.ipynb)
 
-### 3) GithubCodeSpaces
+### 4) GithubCodeSpaces
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/korosig/DataScience)
 
 
