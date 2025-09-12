@@ -53,3 +53,24 @@ Nem a mély matematikai alapokra helyezzük a hangsúlyt, hanem arra, hogy a hal
 **SZTE TTIK II – Mesterséges Intelligencia Tanszék 2025/26**
 
 ---
+
+## Python virtuális környezet beállítása
+
+Linux terminálban az alábbi bash script létrehozza a python virtuális környezet,
+majd letölti a szükséges python csomagokat.
+Figyelem, ez hosszabb időt is igénybe vehet!
+```
+bash venv_init.sh
+```
+Ezt az inicializálást otthon elég egyetlen alkalommal végrehajtani, 
+az Irinyi kabinetben viszont minden óra elején szükséges.
+
+A  következő lépésben aktiváljuk a létrehozott virtuális környezetet
+```
+source .venv/bin/activate
+```
+Végül az aktív virtuális környezetből indítva a `jupyter-lab`-ot, még 
+be kell állítani a kernelt, hogy a létrehozott virtuális környzetet használja.
+Miután megnyitod a kívánt `.ipynb` fájlt, a `Kernel / Change Kernel` 
+után a felugró ablakban kiválasztod a most létrehozott virtuális környezet
+kernelét: `my_venv_kernel`.
