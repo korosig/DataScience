@@ -1,7 +1,8 @@
-# Szövegbányászat/Natural Language Processing, NLP – 3. óra 
+# Hasonlóság fogalma és a dimmenzó csökkentés – 4. óra 
 Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
-- **Szövegbányászat/Natural Language Processing, NLP** (hiányzó adatok, tokenizálás, korreláció, vektorizáció)
-- **Twitter-Sentiment-Analysis** (hiányzó adatok, tokenizálás, korreláció, vektorizáció)
+- **Hasonlóság fogalma és a dimmenzó csökkentés** :
+  - **Hasonlóság mérése** – mennyire „közel” vannak egymáshoz az adatok.
+  - **Dimenziócsökkentés** – hogyan tudjuk az adatokat egyszerűbb, áttekinthetőbb térbe vetíteni úgy, hogy közben a lényegi szerkezet megmaradjon.
 
 > **Megjegyzés:** A notebookok Binderrel azonnal futtathatók böngészőből – helyi telepítés nélkül.
 
@@ -10,11 +11,11 @@ Ez a repó az **Adattudomány** kurzus második órájának két Jupyter noteboo
 ## 👟 Gyors indítás Binderrel vagy GithubCodeSpaces
 
 
-### 1) Szövegbányászat/Natural Language Processing, NLP notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=3%20ora%20-%20Szovegbanyaszat/3%20ora%20-%20Szovegbanyaszat.ipynb)
+### 1) Hasonlóság fogalma és a dimmenzó csökkentés notebook
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=4%20ora%20-%20Hasonlosag%20es%20dimmenzo%20csokkentes/4%20ora%20-%20Hasonlosag%20es%20Dimmenyiocs.ipynb)
 
 ### 2) Feladatok (Sentiment) notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=3%20ora%20-%20Szovegbanyaszat/3%20ora%20-%20Feladatok.ipynb)
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=4%20ora%20-%20Hasonlosag%20es%20dimmenzo%20csokkentes/4%20ora%20-%20Feladatok.ipynb)
 
 ### 3) GithubCodeSpaces
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/korosig/DataScience)
