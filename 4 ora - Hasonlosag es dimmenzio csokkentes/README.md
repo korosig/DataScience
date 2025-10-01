@@ -1,4 +1,4 @@
-# Hasonlóság fogalma és a dimmenzó csökkentés – 4. óra 
+# Hasonlóság fogalma és a dimmenzió csökkentés – 4. óra 
 Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
 - **Hasonlóság fogalma és a dimmenzó csökkentés** :
   - **Hasonlóság mérése** – mennyire „közel” vannak egymáshoz az adatok.
@@ -11,8 +11,8 @@ Ez a repó az **Adattudomány** kurzus második órájának két Jupyter noteboo
 ## 👟 Gyors indítás Binderrel vagy GithubCodeSpaces
 
 
-### 1) Hasonlóság fogalma és a dimmenzó csökkentés notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=4%20ora%20-%20Hasonlosag%20es%20dimmenzo%20csokkentes/4%20ora%20-%20Hasonlosag%20es%20Dimmenyiocs.ipynb)
+### 1) Hasonlóság fogalma és a dimmenzió csökkentés notebook
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=4%20ora%20-%20Hasonlosag%20es%20dimmenzio%20csokkentes/4%20ora%20-%20Hasonlosag%20es%20dimmenzio%20csokkentes.ipynb)
 
 ### 2) Feladatok (Sentiment) notebook
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=4%20ora%20-%20Hasonlosag%20es%20dimmenzo%20csokkentes/4%20ora%20-%20Feladatok.ipynb)
