@@ -1,5 +1,5 @@
 # Ajánlórendszereks – 5. óra 
-Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
+Ez a repó az **Adattudomány** kurzus 5. órájának két Jupyter notebookját tartalmazza:
 - **Ajánlórendszerek** :
   - **Kollaboratív szűrés (Collaborative Filtering)** – Az emberek viselkedése és értékelései alapján ajánl tartalmakat..
   - **Tartalomalapú ajánlás (Content-Based Filtering)** – Az ajánlások az elemek jellemzői (pl. műfaj, kulcsszavak, leírás) alapján történnek.
