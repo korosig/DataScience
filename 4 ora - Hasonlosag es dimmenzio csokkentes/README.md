@@ -1,5 +1,5 @@
 # Hasonlóság fogalma és a dimmenzió csökkentés – 4. óra 
-Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
+Ez a repó az **Adattudomány** kurzus 4. órájának két Jupyter notebookját tartalmazza:
 - **Hasonlóság fogalma és a dimmenzó csökkentés** :
   - **Hasonlóság mérése** – mennyire „közel” vannak egymáshoz az adatok.
   - **Dimenziócsökkentés** – hogyan tudjuk az adatokat egyszerűbb, áttekinthetőbb térbe vetíteni úgy, hogy közben a lényegi szerkezet megmaradjon.

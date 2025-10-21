@@ -1,8 +1,8 @@
-# Hasonlóság fogalma és a dimmenzió csökkentés – 4. óra 
-Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
-- **Hasonlóság fogalma és a dimmenzó csökkentés** :
-  - **Hasonlóság mérése** – mennyire „közel” vannak egymáshoz az adatok.
-  - **Dimenziócsökkentés** – hogyan tudjuk az adatokat egyszerűbb, áttekinthetőbb térbe vetíteni úgy, hogy közben a lényegi szerkezet megmaradjon.
+# Ajánlórendszereks – 5. óra 
+Ez a repó az **Adattudomány** kurzus 5. órájának két Jupyter notebookját tartalmazza:
+- **Ajánlórendszerek** :
+  - **Kollaboratív szűrés (Collaborative Filtering)** – Az emberek viselkedése és értékelései alapján ajánl tartalmakat..
+  - **Tartalomalapú ajánlás (Content-Based Filtering)** – Az ajánlások az elemek jellemzői (pl. műfaj, kulcsszavak, leírás) alapján történnek.
 
 > **Megjegyzés:** A notebookok Binderrel azonnal futtathatók böngészőből – helyi telepítés nélkül.
 
@@ -10,12 +10,11 @@ Ez a repó az **Adattudomány** kurzus második órájának két Jupyter noteboo
 
 ## 👟 Gyors indítás Binderrel vagy GithubCodeSpaces
 
-
 ### 1) Hasonlóság fogalma és a dimmenzió csökkentés notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=4%20ora%20-%20Hasonlosag%20es%20dimmenzio%20csokkentes/4%20ora%20-%20Hasonlosag%20es%20dimmenzio%20csokkentes.ipynb)
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=5%20ora%20-%20Ajanlo%20rendszerek%20(Recommendation%20systems)/5%20ora%20-%20Ajanlo%20rendszerek%20(Recommendation%20systems).ipynb)
 
 ### 2) Feladatok (Sentiment) notebook
-[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=4%20ora%20-%20Hasonlosag%20es%20dimmenzo%20csokkentes/4%20ora%20-%20Feladatok.ipynb)
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korosig/DataScience/HEAD?labpath=5%20ora%20-%20Ajanlo%20rendszerek%20(Recommendation%20systems)/5%20ora%20-%20Ajanlo%20rendszerek%20(Recommendation%20systems).ipynb)
 
 ### 3) GithubCodeSpaces
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/korosig/DataScience)

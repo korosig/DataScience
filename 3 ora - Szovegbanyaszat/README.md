@@ -1,5 +1,5 @@
 # Szövegbányászat/Natural Language Processing, NLP – 3. óra 
-Ez a repó az **Adattudomány** kurzus második órájának két Jupyter notebookját tartalmazza:
+Ez a repó az **Adattudomány** kurzus 3. órájának két Jupyter notebookját tartalmazza:
 - **Szövegbányászat/Natural Language Processing, NLP** (hiányzó adatok, tokenizálás, korreláció, vektorizáció)
 - **Twitter-Sentiment-Analysis** (hiányzó adatok, tokenizálás, korreláció, vektorizáció)
 
