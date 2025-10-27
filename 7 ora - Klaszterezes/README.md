@@ -1,4 +1,4 @@
-# Ajánlórendszereks – 6. óra 
+# Klaszterezés – 7. óra 
 Ez a repó az **Adattudomány** kurzus 7. órájának két Jupyter notebookját tartalmazza:
 - **Klaszterezés anyagrészt valamint az Xai témakört** 
 
