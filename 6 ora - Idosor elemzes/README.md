@@ -1,7 +1,6 @@
-# Ajánlórendszereks – 6. óra 
-Ez a repó az **Adattudomány** kurzus 6. órájának két Jupyter notebookját tartalmazza:
-- **Ajánlórendszerek** :
-  - **Idősor elemzés** – Egy idősor olyan adatstruktúra,......
+# Idősor elemzés – 6. óra 
+Ez a repó az **Idősor elemzés** kurzus 6. órájának két Jupyter notebookját tartalmazza:
+- **Idősor elemzés** – Egy idősor olyan adatstruktúra,......
 
 > **Megjegyzés:** A notebookok Binderrel azonnal futtathatók böngészőből – helyi telepítés nélkül.
 
